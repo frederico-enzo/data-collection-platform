@@ -1,12 +1,14 @@
 import './App.css'
-import { Formulario } from './components/formulario/formulario';
+
 
 function App() {
   return (
-    <div>
-      <Formulario />
+    <div className="App">
+      <header className="App-header">
+        <h1>wELL</h1>
+      </header>
     </div>
-  );
+  )
 }
 
 export default App
