@@ -1,2 +1,0 @@
-usina -> geradora
-armazenamento -> bess (batery energy storage system)

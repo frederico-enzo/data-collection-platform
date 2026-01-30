@@ -1,6 +1,6 @@
-import type { Tecnologia } from "./enums/tecnologia";
-import type { Contrato } from "./enums/contrato";
-import type { Comprador } from "./enums/comprador";
+import type { Tecnologia } from "../enums/tecnologia";
+import type { Contrato } from "../enums/contrato";
+import type { Comprador } from "../enums/comprador";
 import type { Municipio } from "./municipio";
 import type { Equipamento } from "./equipamento";
 
